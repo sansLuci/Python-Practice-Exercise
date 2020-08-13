@@ -1,0 +1,49 @@
+Basic Syntax:
+1. printing
+2. indentation
+3. reserved keywords
+4. Quotation
+
+Comments
+1. Single line
+2. Multiple line
+
+Data Structures
+1. Numbers
+2. String
+3. List
+4. Dictionary
+5. Tuple
+6. Set
+
+Loops and Conditions
+1. if
+2. if-else
+3. elif
+4. For
+5. while
+
+Functions
+1. defining a Function
+2. Argument passing
+3. Default Arguments
+5. Recursion
+6. Lambda
+7. Scope
+
+File Handling
+1. modes
+2. read
+3. write
+4. delete
+
+Classes
+1. Class and object
+2. method and parameters
+3. Inheritance
+
+Exception Handling
+1. try
+2. except
+3. finally
+4. Raise exception
